@@ -1,0 +1,18 @@
+1 => Create npm project
+
+2 => Create Index, Css, Js files
+
+3 => Install dependencies, express, nodemon(dev dep);
+
+4 => Create a express server 
+
+5 => Do Frontend part
+
+6 => Install socket, io, Setup socket.io in server.js and client client.js
+
+7 => Client send message to logic in client.js
+
+8 => Receive message on server and broadcast to all clients
+
+9 => Receive message on client and display it. scrollToBottom etc...
+
